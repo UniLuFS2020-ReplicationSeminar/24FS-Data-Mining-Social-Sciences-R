@@ -19,6 +19,22 @@ For this course, there are several software tools you'll need to install and con
 7. Create a test repository on GitHub ([guide](https://happygitwithr.com/rstudio-git-github.html#make-a-repo-on-github-1); pick HTTPS).
 8. Clone the test repo to your computer using RStudio ([guide](https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio); if you managed to clone, you should be all right without making a local change and pushing it.
 
+## How to post a good GitHub Issue for installation support
+
+1. **From the GitHub Repository:** Find the 'Issues' tab.
+
+2. **Create a New Issue:** Click on 'New Issue' to start writing your request for help.
+
+3. **Write a Clear Title:** Summarize your problem briefly in the title, like 'Trouble Installing RStudio'.
+
+4. **Describe Your Problem:**
+   - **Be Detailed:** Explain what issue you're facing including any error messages you see. Being specific helps me understand your problem better.
+   - **Steps You Took:** List what you did step by step until you encountered the problem. You should try to fix the problem on your own before writing an issue. 
+   - **Include Screenshots:** If you can, add pictures of your screen showing the error messages or where you got stuck. You can drag and drop images into the GitHub issue.
+   - **Your Computer's Details:** Share information about your computer, such as the operating system and the version of the software you're trying to install.
+
+5. **Submit Your Issue:** Once you've filled in all the details, click the 'Submit new issue' button. I'll look into it and get back to you with help or a solution.
+
 ## Structure of the course and learning outcomes
 
 The course is structured in three blocks:
